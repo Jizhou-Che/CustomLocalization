@@ -1,0 +1,9 @@
+{
+    "modid": "CustomLocalization",
+    "name": "CustomLocalization",
+    "author_list": ["瓶装易碎柯妮法"],
+    "description": "A custom localization mod for Dai.",
+    "version": "0.1.8",
+    "sts_version": "12-18-2022",
+    "mts_version": "3.30.3"
+}

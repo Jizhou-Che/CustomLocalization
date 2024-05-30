@@ -1,0 +1,8 @@
+{
+    "customlocalization:Config": {
+        "TEXT": [
+            "Open Config Directory",
+            "Config modifications will take effect after the game relaunches."
+        ]
+    }
+}
